@@ -30,14 +30,8 @@ export class AppRoot extends LitElement {
       <div class="wrapper">
         <h1>LitElement + Snowpack :D</h1>
         <p>Edit <code>src/app-root.js</code> and save to reload.</p>
-        <a
-          class="link"
-          href="https://lit-element.polymer-project.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          ${this.message}
-        </a>
+        <p>Realizamos cambios. Prueba de funcionamiento deploy</p>
+      
       </div>
     `;
   }
