@@ -31,6 +31,7 @@ export class AppRoot extends LitElement {
         <h1>LitElement + Snowpack :D</h1>
         <p>Edit <code>src/app-root.js</code> and save to reload.</p>
         <p>Realizamos cambios. Prueba de funcionamiento deploy</p>
+        <p>Integración continua</p>
       
       </div>
     `;
